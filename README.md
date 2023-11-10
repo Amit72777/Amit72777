@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Amit Kushwaha</h1>
 <h3 align="center">To gain something, you have to lose something.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif">
+<img align="right" alt="Coding" width="1100" src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit72777&label=Profile%20views&color=0e75b6&style=flat" alt="amit72777" /> </p>
 
