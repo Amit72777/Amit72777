@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/amit-kushwaha-49ab1628a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amit-kushwaha-49ab1628a" height="30" width="40" /></a>
 <a href="https://instagram.com/silent72777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silent72777" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Amit72777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="silent72777" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amitkush2005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amitkush2005" height="30" width="40" /></a>
 <!-- <a href="https://github.com//Amit72777" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Amit72777" height="40" width="40" /></a>
 </p> -->
